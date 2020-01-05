@@ -53,7 +53,7 @@ var config = {
 			 
 			  sort: "time",
 			  showWidth: "800px",
-			  showHeight "600px",
+			  showHeight: "600px",
 		     	  originalWidthPx: 800,
 			  originalHeightPx: 600,
 			  opacity: 1,
